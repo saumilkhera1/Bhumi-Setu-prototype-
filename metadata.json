@@ -1,0 +1,6 @@
+{
+  "name": "Bhumi-Setu (भूमि-सेतु)",
+  "description": "Intelligent Land Record Digitization and Validation System - Cadastral Land Records & Verification Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
